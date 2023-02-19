@@ -2,7 +2,7 @@
 This Conversion Currency App is an application that allows users to know the conversion from Dollar to Euro, Egp and Sar. It uses a free API from CurrencyFreaks to get the latest exchange rates. The app is built using HTML, CSS, JavaScript.
 The HTML is used to create the structure of the page and the CSS is used to style the page. The JavaScript code is used to make the page interactive and to handle all of the calculations for the currency conversion. The API provides the exchange rates for each currency which are used in the calculations.
 
--Live Demo: https://marwan-mohamed12.github.io/Currency-App/
+- Live Demo: https://marwan-mohamed12.github.io/Currency-App/
 
 ## Getting Started
 
