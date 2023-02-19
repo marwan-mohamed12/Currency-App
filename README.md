@@ -6,14 +6,14 @@ The HTML is used to create the structure of the page and the CSS is used to styl
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
+## Prerequisites
 
 You need to have the following installed on your system:
 
 - Google Chrome
 - VScode
 
-### Installing
+## Installing
 
 1. Clone the repo: `git clone <https://github.com/marwan-mohamed12/Currency-App.git`>
 2. Open the application in your browser
